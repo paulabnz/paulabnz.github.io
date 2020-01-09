@@ -1,0 +1,34 @@
+.social-white {
+    margin-right: 5px;
+}
+.link-white {
+    color: white;
+    text-decoration: none; 
+}
+.link-white:hover {
+    color: gray;
+    text-decoration: none; 
+}
+
+.link-dark{
+    color: rgb(60, 60, 60);
+    text-decoration: none; 
+}
+.link-dark:hover {
+    color: gray;
+    text-decoration: none; 
+}
+
+.footer-all {
+    background-color: black;
+}
+.footer-all-text {
+    color: rgb(60, 60, 60); 
+}
+
+#logo-top {
+    width: 30px; 
+    height: 30px; 
+    margin-right: 20px;
+}
+
